@@ -1,2 +1,2 @@
-# trial.github.io
-trial   github   io
+# trial
+trial
